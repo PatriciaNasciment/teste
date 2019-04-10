@@ -1,6 +1,3 @@
-[submodule "submodule/Spoon-knife-client"]
-	path = submodule/Spoon-knife-client
-	url = https://github.com/PatriciaNasciment/Spoon-Knife.git
-[submodule "submodule1/Spoon-knife-client"]
-	path = submodule1/Spoon-knife-client
-	url = https://github.com/PatriciaNasciment/Spoon-Knife.git
+[submodule "file/file/testeFile-client"]
+	path = file/file/testeFile-client
+	url = https://github.com/PatriciaNasciment/testeFiles.git

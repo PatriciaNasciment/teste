@@ -1,0 +1,3 @@
+[submodule "file/testeFile-client"]
+	path = file/testeFile-client
+	url = https://github.com/PatriciaNasciment/testeFiles.git
