@@ -1,3 +1,6 @@
-[submodule "Spoon-Knife/Spoon-knife-client"]
-	path = Spoon-Knife/Spoon-knife-client
+[submodule "submodule/Spoon-knife-client"]
+	path = submodule/Spoon-knife-client
+	url = https://github.com/PatriciaNasciment/Spoon-Knife.git
+[submodule "submodule1/Spoon-knife-client"]
+	path = submodule1/Spoon-knife-client
 	url = https://github.com/PatriciaNasciment/Spoon-Knife.git
